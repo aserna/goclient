@@ -18,6 +18,6 @@ func main() {
 	if printUser {
 		fmt.Println("Hello " + user)
 
-		fmt.Printf("Hello %s\n", user)
+		fmt.Printf("Hello second string %s\n", user)
 	}
 }
